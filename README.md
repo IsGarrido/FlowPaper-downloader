@@ -1,0 +1,1 @@
+Descarga pdfs de flowchart como imágenes usando playwright (chromium/firefox controlable via js)
